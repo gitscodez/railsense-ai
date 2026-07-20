@@ -6,7 +6,7 @@ import { MetricsPanel } from "./components/MetricsPanel";
 import { SegmentAnalytics } from "./components/SegmentAnalytics";
 import { ActionableInsights } from "./components/ActionableInsights";
 
-const BACKEND_URL = "http://localhost:8000";
+const BACKEND_URL = "https://railsense-backend.onrender.com";
 
 interface Station {
   name: string;
